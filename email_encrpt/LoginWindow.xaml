@@ -1,0 +1,19 @@
+﻿ <Window x:Class="email_encrpt.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:email_encrpt"
+        mc:Ignorable="d"
+        Title="EasySecurity Login" Height="350" Width="525" Closed="Window_Closed" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+    <Grid>
+        <Image x:Name="Image1_png" Margin="0" Source="email-logo.png"/>
+
+        <TextBox x:Name="email" HorizontalAlignment="Left" Height="23" Margin="159,122,0,0" VerticalAlignment="Top" Width="225" BorderBrush="Black" BorderThickness="2" VerticalContentAlignment="Center" FontSize="13.333"/>
+        <Label x:Name="label1" Content="Email:" HorizontalAlignment="Left" Margin="58,116,0,0" VerticalAlignment="Top" FontSize="18.667" Foreground="Black" FontFamily="SWItalt" FontWeight="Bold"/>
+        <PasswordBox x:Name="password" HorizontalAlignment="Left" Height="23" Margin="159,160,0,0" VerticalAlignment="Top" Width="225" BorderBrush="Black" BorderThickness="2" FontSize="13.333" VerticalContentAlignment="Center"/>
+        <Label x:Name="label2" Content="Password:" HorizontalAlignment="Left" Margin="16,155,0,0" VerticalAlignment="Top" FontSize="18.667" Foreground="Black" FontFamily="SWItalt" FontWeight="Bold"/>
+        <Button x:Name="button" Content="Login" Margin="0,160,0,0" Width="90" FontSize="20" Height="32" Click="Login_Click" IsDefault="True" HorizontalContentAlignment="Center" VerticalContentAlignment="Top"/>
+
+    </Grid>
+</Window>
