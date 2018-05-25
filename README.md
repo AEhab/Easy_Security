@@ -8,7 +8,8 @@ EasySecurity is a user friendly email client with support for all the basic feat
 ### Pretty Good Privacy (PGP)
 
 Pretty Good Privacy (PGP) is an encryption program that provides cryptographic privacy and authentication for data communication. PGP is often used for signing, encrypting, and decrypting texts, e-mails, files, directories, and whole disk partitions and to increase the security of e-mail communications.
-![alt text] (Encrypt_decrypt.png)
+![alt text](Encrypt_decrypt.png)
+
 ### IMAP (Internet Message Access Protocol)
 
 IMAP (Internet Message Access Protocol) is a standard email protocol that stores email messages on a mail server, but allows the end user to view and manipulate the messages as though they were stored locally on the end user's computing device(s). This allows users to organize messages into folders, have multiple client applications know which messages have been read, flag messages for urgency or follow-up and save draft messages on the server.
