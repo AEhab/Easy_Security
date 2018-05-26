@@ -8,10 +8,10 @@ EasySecurity is a user friendly email client with support for all the basic feat
 ### Pretty Good Privacy (PGP)
 
 Pretty Good Privacy (PGP) is an encryption program that provides cryptographic privacy and authentication for data communication. PGP is often used for signing, encrypting, and decrypting texts, e-mails, files, directories, and whole disk partitions and to increase the security of e-mail communications.
-<p align="center">
-<img src="Encrypt_decrypt.png">
-</p>
-![alt text](Encrypt_decrypt.png)
+
+<img  align="center" src="Encrypt_decrypt.png">
+
+
 
 ### IMAP (Internet Message Access Protocol)
 
